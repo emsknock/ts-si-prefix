@@ -1,0 +1,16 @@
+{
+    "name": "ts-si-prefix",
+    "version": "1.0.0",
+    "description": "Get an SI prefix for any value",
+    "main": "./dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emsknock/ts-si-prefix.git"
+    },
+    "author": "Emma Koskinen (@emsknock)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/emsknock/ts-si-prefix/issues"
+    },
+    "homepage": "https://github.com/emsknock/ts-si-prefix#readme"
+}
